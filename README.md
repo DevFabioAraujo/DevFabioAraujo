@@ -3,6 +3,7 @@
 
 - 🔭 Trabalho com Eletronica Analise e Reparo - migrando para IT, onde estou a desenvolver uma aplicação de controle de itens.
 - 🌱 Estou Estudando Analise e Desenvolvimento de Sistemas, e cursos auxiliares DevEmDobro e Devesuperior.
+- Canais ainda sendo estilizados e inserindo conteudos.
 
 <div>
   <a href="https://github.com/DevFabioAraujo"> 
