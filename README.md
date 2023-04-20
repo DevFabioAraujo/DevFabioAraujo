@@ -1,9 +1,9 @@
 ## Ola!!! Eu sou Fabio Ferreira de Araujo
 
 
-- 🔭 Trabalho com Eletronica Analise e Reparo - migrando para IT
-- 🌱 Estou Estudando Analise e Desenvolvimento de Sistemas
-- 📫 How to reach me: ...
+- 🔭 Trabalho com Eletronica Analise e Reparo - migrando para IT, onde estou a desenvolver uma aplicação de controle de itens.
+- 🌱 Estou Estudando Analise e Desenvolvimento de Sistemas, e cursos auxiliares DevEmDobro e Devesuperior.
+
 <div>
   <a href="https://github.com/DevFabioAraujo">  
   <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=DevFabioAraujo&show_icons=true&theme=dracula&include_all_commits=true">
